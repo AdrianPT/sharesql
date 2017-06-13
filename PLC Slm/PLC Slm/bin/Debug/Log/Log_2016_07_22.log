@@ -1,0 +1,30 @@
+<LogEntry Date="2016-07-22 12:20:06" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-22 12:52:41" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-22 12:52:58" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="11">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>O elemento 'http://schemas.microsoft.com/sharepoint/clientquery/2009:ObjectPath' não está declarado.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 146</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-22 12:52:58" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="7">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>O elemento 'http://schemas.microsoft.com/sharepoint/clientquery/2009:Method' não está declarado.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 146</StackTrace>
+  </Exception>
+</LogEntry>

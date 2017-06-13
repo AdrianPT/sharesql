@@ -1,0 +1,330 @@
+<LogEntry Date="2016-07-27 14:09:32" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 14:16:43" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 14:22:13" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 14:22:14" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 239</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 14:22:14" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 239</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 14:22:15" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 239</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 14:22:16" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 239</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 15:45:15" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 15:45:17" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 239</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 15:45:17" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 239</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 15:45:18" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 239</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 15:45:19" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 239</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 15:45:20" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="7">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 239</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 15:45:28" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 15:45:29" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 239</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 15:45:30" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 239</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 15:45:31" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 239</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 15:54:01" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 15:54:02" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 239</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 15:54:03" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 239</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 15:54:04" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 239</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 15:54:05" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 239</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 15:54:06" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="7">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 239</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:00:22" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:01:34" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:01:37" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="System.InvalidCastException" Source="PLC_Slm.clases.Make.test">
+    <Message>A conversão especificada não é válida.</Message>
+    <StackTrace>   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 271
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 228</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:01:37" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="System.InvalidCastException" Source="PLC_Slm.clases.Make.test">
+    <Message>A conversão especificada não é válida.</Message>
+    <StackTrace>   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 271
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 228</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:01:37" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="System.InvalidCastException" Source="PLC_Slm.clases.Make.test">
+    <Message>A conversão especificada não é válida.</Message>
+    <StackTrace>   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 257
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 228</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:01:57" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:01:58" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="System.InvalidCastException" Source="PLC_Slm.clases.Make.test">
+    <Message>A conversão especificada não é válida.</Message>
+    <StackTrace>   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 272
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 228</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:01:59" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="System.InvalidCastException" Source="PLC_Slm.clases.Make.test">
+    <Message>A conversão especificada não é válida.</Message>
+    <StackTrace>   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 272
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 228</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:02:00" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="System.InvalidCastException" Source="PLC_Slm.clases.Make.test">
+    <Message>A conversão especificada não é válida.</Message>
+    <StackTrace>   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 272
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 228</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:02:28" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:02:29" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="System.InvalidCastException" Source="PLC_Slm.clases.Make.test">
+    <Message>A conversão especificada não é válida.</Message>
+    <StackTrace>   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 272
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 228</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:02:30" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="System.InvalidCastException" Source="PLC_Slm.clases.Make.test">
+    <Message>A conversão especificada não é válida.</Message>
+    <StackTrace>   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 272
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 228</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:02:31" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="System.InvalidCastException" Source="PLC_Slm.clases.Make.test">
+    <Message>A conversão especificada não é válida.</Message>
+    <StackTrace>   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 272
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 228</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:02:32" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="System.InvalidCastException" Source="PLC_Slm.clases.Make.test">
+    <Message>A conversão especificada não é válida.</Message>
+    <StackTrace>   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 272
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 228</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:02:40" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:03:13" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:03:37" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:04:11" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:04:20" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:04:44" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:04:53" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:24:12" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:31:59" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:32:19" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:32:34" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:32:57" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:34:10" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:34:15" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:34:41" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:38:48" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:39:03" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:42:21" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:42:43" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:43:05" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:43:28" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:44:47" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:49:44" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:50:26" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:52:15" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:52:29" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:52:56" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 16:58:38" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 17:07:44" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 17:10:28" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 17:10:39" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 17:10:47" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 17:10:57" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 17:11:09" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 17:12:12" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 17:12:44" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-27 17:15:12" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>

@@ -1,0 +1,3 @@
+<LogEntry Date="2017-04-18 12:22:54" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>

@@ -1,0 +1,632 @@
+<LogEntry Date="2016-07-25 18:43:58" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 18:44:29" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 18:44:46" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 18:45:17" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 18:54:17" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 18:54:43" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:01:04" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:02:18" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:03:02" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:03:19" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:03:31" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:05:50" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:06:42" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:06:52" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:07:11" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:07:21" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:08:13" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:09:39" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="8">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="11">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="10">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="9">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="12">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="7">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="8">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="9">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="12">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="11">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="7">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="10">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="8">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="8">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="8">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="8">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="7">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="9">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="7">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="10">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="9">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="12">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="11">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="12">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="10">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="11">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="8">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="8">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="9">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="9">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:12" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="7">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:12" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="7">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:12" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="12">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:12" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="12">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:12" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="11">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:12" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="10">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:12" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="8">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:12" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:12" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="11">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:12" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="10">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:12" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="8">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:12" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:13" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:13" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:14" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="9">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:14" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="9">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/LAB/.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valor) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 191</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:10:40" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:13:28" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:14:33" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:14:47" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:17:23" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-25 19:17:48" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>

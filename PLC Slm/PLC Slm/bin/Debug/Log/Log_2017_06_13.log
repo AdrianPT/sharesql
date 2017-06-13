@@ -1,0 +1,84 @@
+<LogEntry Date="2017-06-13 10:10:36" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="6">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 10:17:13" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 10:18:10" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 10:19:39" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 10:20:17" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 10:37:10" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 10:37:28" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 10:40:50" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 10:44:48" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 10:47:27" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 10:49:19" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 10:51:41" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 10:55:20" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 10:56:14" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 11:43:24" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 11:44:14" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="8">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 11:45:29" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="6">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 11:46:16" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 11:52:27" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 11:54:21" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 11:54:55" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 11:55:29" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 11:58:09" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 12:00:35" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 12:06:28" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 12:41:27" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 12:42:37" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2017-06-13 12:44:14" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="7">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>

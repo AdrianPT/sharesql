@@ -1,0 +1,14 @@
+c:\users\adrianferreira\documents\visual studio 2013\Projects\PLC Slm\PLC Slm\bin\Debug\PLC Slm.exe.config
+c:\users\adrianferreira\documents\visual studio 2013\Projects\PLC Slm\PLC Slm\bin\Debug\PLC Slm.exe
+c:\users\adrianferreira\documents\visual studio 2013\Projects\PLC Slm\PLC Slm\bin\Debug\PLC Slm.pdb
+c:\users\adrianferreira\documents\visual studio 2013\Projects\PLC Slm\PLC Slm\obj\Debug\PLC Slm.exe
+c:\users\adrianferreira\documents\visual studio 2013\Projects\PLC Slm\PLC Slm\obj\Debug\PLC Slm.pdb
+C:\Users\AdrianFerreira\documents\visual studio 2013\Projects\PLC Slm\PLC Slm\bin\Debug\Microsoft.CSharp.dll
+C:\Users\AdrianFerreira\documents\visual studio 2013\Projects\PLC Slm\PLC Slm\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\AdrianFerreira\documents\visual studio 2013\Projects\PLC Slm\PLC Slm\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\AdrianFerreira\documents\visual studio 2013\Projects\PLC Slm\PLC Slm\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\AdrianFerreira\documents\visual studio 2013\Projects\PLC Slm\PLC Slm\bin\Debug\System.Data.dll
+C:\Users\AdrianFerreira\documents\visual studio 2013\Projects\PLC Slm\PLC Slm\bin\Debug\System.dll
+C:\Users\AdrianFerreira\documents\visual studio 2013\Projects\PLC Slm\PLC Slm\bin\Debug\System.Xml.dll
+C:\Users\AdrianFerreira\documents\visual studio 2013\Projects\PLC Slm\PLC Slm\bin\Debug\System.Xml.Linq.dll
+C:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\obj\Debug\PLC Slm.csprojResolveAssemblyReference.cache

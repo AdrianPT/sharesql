@@ -1,0 +1,422 @@
+<LogEntry Date="2016-07-26 09:34:48" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:35:20" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:35:24" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:35:24" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:35:24" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:35:24" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:35:24" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="7">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:35:25" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="8">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:35:26" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="9">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:37:09" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:37:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>A coluna 'ValorReal' não existe. Pode ter sido eliminada por outro utilizador.  /it/itdepartment/LAB/test/Lists/PLCTest2</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 219</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:37:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>A coluna 'ValorReal' não existe. Pode ter sido eliminada por outro utilizador.  /it/itdepartment/LAB/test/Lists/PLCTest2</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 219</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:37:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>A coluna 'ValorReal' não existe. Pode ter sido eliminada por outro utilizador.  /it/itdepartment/LAB/test/Lists/PLCTest2</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 219</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:37:58" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:37:59" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>A coluna 'ValorReal' não existe. Pode ter sido eliminada por outro utilizador.  /it/itdepartment/LAB/test/Lists/PLCTest2</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 219</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:37:59" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>A coluna 'ValorReal' não existe. Pode ter sido eliminada por outro utilizador.  /it/itdepartment/LAB/test/Lists/PLCTest2</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 219</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:38:00" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>A coluna 'ValorReal' não existe. Pode ter sido eliminada por outro utilizador.  /it/itdepartment/LAB/test/Lists/PLCTest2</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 219</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:42:02" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:42:19" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:42:20" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:42:21" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:42:40" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:43:12" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:43:13" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:43:14" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:43:27" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:43:28" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:43:29" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:43:30" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:43:31" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:48:43" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:48:44" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:48:45" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:50:34" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:50:35" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 09:50:35" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ServerException" Source="Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream">
+    <Message>Não é possível concluir esta acção.
+
+Tente de novo.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponseStream(Stream responseStream)
+   em Microsoft.SharePoint.Client.ClientRequest.ProcessResponse()
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQueryToServer(ChunkStringBuilder sb)
+   em Microsoft.SharePoint.Client.ClientRequest.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientRuntimeContext.ExecuteQuery()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 201</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 10:00:08" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-26 10:00:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 205</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 10:00:10" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 205</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 10:00:11" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 205</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 10:02:25" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-07-26 10:02:26" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 205</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 10:02:26" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 205</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 10:02:27" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.CollectionNotInitializedException" Source="Microsoft.SharePoint.Client.ClientObjectCollection`1+&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext">
+    <Message>The collection has not been initialized. It has not been requested or the request has not been executed. It may need to be explicitly requested.</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientObjectCollection`1.&lt;System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator&gt;d__0.MoveNext()
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int64 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 205</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-07-26 10:16:05" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>

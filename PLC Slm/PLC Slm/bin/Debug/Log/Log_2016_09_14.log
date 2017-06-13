@@ -1,0 +1,562 @@
+<LogEntry Date="2016-09-14 12:48:14" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:19" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:19" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="7">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:19" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:19" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="8">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:19" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:19" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:20" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="9">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:21" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="10">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:22" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="11">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:23" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="12">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:24" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="7">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:25" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:26" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:27" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="8">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:28" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:29" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:30" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="9">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:31" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="10">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:32" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="11">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:33" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="12">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:34" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="7">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:35" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:36" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:37" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="8">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:38" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:39" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:40" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="9">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:41" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="10">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:42" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="11">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:43" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="12">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:44" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="7">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:45" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:46" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:47" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="8">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:48" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:49" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:48:50" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="9">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:49:45" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:49:46" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:49:47" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:49:48" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:49:49" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:49:50" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="7">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:49:51" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="8">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:49:52" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="9">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:49:53" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="10">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:49:54" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="11">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:49:55" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="12">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:49:56" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="3">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:49:57" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="4">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:49:58" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="5">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:49:59" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="6">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:50:00" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="7">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:50:01" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="8">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:50:02" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="9">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:50:03" Severity="Exception" Source="PLC_Slm.clases.Make.InsertSharepoint" ThreadId="10">
+  <Exception Type="Microsoft.SharePoint.Client.ClientRequestException" Source="Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate">
+    <Message>Cannot contact site at the specified URL http://pc2-adrian/patio/Lists/. Não existe nenhuma Web chamada "/patio/Lists/_vti_bin/sites.asmx".</Message>
+    <StackTrace>   em Microsoft.SharePoint.Client.ClientContext.GetFormDigestInfoPrivate()
+   em Microsoft.SharePoint.Client.ClientContext.EnsureFormDigest()
+   em Microsoft.SharePoint.Client.ClientContext.ExecuteQuery()
+   em PLC_Slm.clases.Make.test(String siteURL, String nomeLista, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 242
+   em PLC_Slm.clases.Make.InsertSharepoint(String siteURL, String nomeLista, String impNomeTag, Int32 valorReal) em c:\Users\AdrianFerreira\Documents\Visual Studio 2013\Projects\PLC Slm\PLC Slm\clases\Make.cs:line 200</StackTrace>
+  </Exception>
+</LogEntry>
+<LogEntry Date="2016-09-14 12:50:48" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
+<LogEntry Date="2016-09-14 14:10:18" Severity="Info" Source="PLC_Slm.Program.Main" ThreadId="1">
+  <Message>Test entry to see if logging works.</Message>
+</LogEntry>
